@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+
+.youtube{
+    border: 10px dotted red;
+    padding-top: 300px;
+    margin-left:40px;
+}
+
+.yotube:hover{
+    font-size: 50px;
+    transition: 0.5;
+}
+
+.image{
+    width: 200px;
+    height: 400px;
+    display:flex;
+}
+
+.image:hover{
+    scale: 1.5;
+    transition: 0.5s;
+}
+
+.btn{
+    font-size: 24px;
+    background-color: yellow;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding:40px;
+}
+
+.btn:hover{
+    background-color: orange;
+    transition:0.3s;
+}
