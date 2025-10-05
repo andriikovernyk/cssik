@@ -37,4 +37,10 @@ body{
 .btn:hover{
     background-color: orange;
     transition:0.3s;
+
+}
+
+.text{
+    font-size: 18px;
+    font-family: cursive;
 }
